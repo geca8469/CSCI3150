@@ -36,5 +36,13 @@ h1, h2 {
     font-weight: bold;
     color: purple;
   }
+  h1, strong {
+    color: purple;
+  }
+  
+  em {
+    color: gray;
+  }
+     
       
       
