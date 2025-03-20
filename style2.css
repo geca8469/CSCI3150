@@ -139,9 +139,9 @@ aside {
 }
 
 aside a {
-  display: block;
-  float: left;
-  width: 50%;
+  /*display: block;
+  float: left;*/
+  width: 100%;
 }
 
 aside img {
